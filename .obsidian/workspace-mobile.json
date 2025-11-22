@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "e62784e6eb490033",
+    "type": "split",
+    "children": [
+      {
+        "id": "b99a7bcb3baca8f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2d223d4b96cc676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "6c720c4e8d8788b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 计算机网络概述/计算机网络概述.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机网络概述"
+            }
+          },
+          {
+            "id": "d045e55f47dfe004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 计算机网络概述/1. 计算机网络基本概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 计算机网络基本概念"
+            }
+          },
+          {
+            "id": "73794b05ebb0bf4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 计算机网络概述/2. 计算机网络体系结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. 计算机网络体系结构"
+            }
+          },
+          {
+            "id": "33ab39d1293bd158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 计算机网络概述/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "c0527abbd6a8ded7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. 物理层/1. 通信基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 通信基础"
+            }
+          },
+          {
+            "id": "3bb7f5687e3e22c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 计算机网络概述/1. 计算机网络基本概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 计算机网络基本概念"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81ecdff525494c8d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8001e0c30e72a1d5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "690885c656acddb0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5a856ee0d5d9af54",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "44cd3f53ad0b32fc",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "25b3bb6289f20cea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cc01b354af3c00e3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2. 物理层/1. 通信基础.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "9cdf5b3de90280d3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "1. 计算机网络概述/计算机网络基本概念.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "48fdd317ff471bf7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "1. 计算机网络概述/计算机网络基本概念.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "c2d223d4b96cc676",
+  "lastOpenFiles": [
+    "2. 物理层/1. 通信基础.md",
+    "2. 物理层/Excalidraw/Drawing 2025-11-22 17.13.06.excalidraw.md",
+    "2. 物理层/Excalidraw",
+    "2. 物理层/0. 物理层.md",
+    "1. 计算机网络概述/1. 计算机网络基本概念.md",
+    "1. 计算机网络概述/2. 计算机网络体系结构.md",
+    "1. 计算机网络概述/未命名.md",
+    "2. 物理层",
+    "1. 计算机网络概述/0. 计算机网络概述.md",
+    "Untitled.md",
+    "1. 计算机网络概述"
+  ]
+}
